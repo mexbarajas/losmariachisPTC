@@ -10,7 +10,7 @@ const T   = "w_800,f_auto,q_auto,c_fill";  // auto optimize
 const Ts  = "w_400,h_300,f_auto,q_auto,c_fill"; // small card
 
 const IMG = {
-  logo:        `${CDN}/v1774295662/logo.jpg`,
+  logo:        `https://res.cloudinary.com/dmktopcmj/image/upload/v1774886010/f023e6dd-ebdf-40c9-b340-bf65d50d018f.png`,
   hero:        `${CDN}/${T},g_center/v1774296265/8e34ba_fed8eaa4e0394266a3e139f6fa63d73e_mv2.jpg`,
   birria:      `${CDN}/${Ts}/v1774295194/The_Birria_master.avif`,
   guacamole:   `${CDN}/${Ts}/v1774465006/Guacamole_con_Totopos.png`,
